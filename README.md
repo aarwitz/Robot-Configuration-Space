@@ -3,6 +3,7 @@
 Functions for checking if two-link-manipulator is in collision with obstacles, plans optimal motion around obstacles.
 
 The robot can be modeled as a set of polygons with an end-effector and the boundaries of obstacles in its environment as stars. The edge of each robot is traced in red if it collides with an obstacle, green otherwise.
+
 ![Figure](https://user-images.githubusercontent.com/61487056/140775658-35227e30-9f32-4e5d-9324-2177140ed89f.png)
 ![Figure2](https://user-images.githubusercontent.com/61487056/140776051-7fcd56ef-c502-4fcc-bed0-182f486b7e96.png)
 
